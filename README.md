@@ -4,7 +4,7 @@ A simple todo application. You can add, mark as done and delete.
 
 ## Github Pages
 
-You can check out this project at [GitHub Pages](https://sahinaykkt.github.io/MiniProjects/TodoApp/)
+You can check out this project at [GitHub Pages](https://sahinaykkt.github.io/TodoApp/)
 
 ## Built With
 
